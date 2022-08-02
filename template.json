@@ -1,4 +1,4 @@
-[
+{"channels":[
   {
     "id":1,
     "clients":[
@@ -24,9 +24,8 @@
     "files":[
       {
         "name":"example2.txt",
-        "size":100
+        "size":100        
       }
     ]
-    
   }
-]
+]}
