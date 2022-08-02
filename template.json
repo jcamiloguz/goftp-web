@@ -1,0 +1,32 @@
+[
+  {
+    "id":1,
+    "clients":[
+      {
+        "id":"example"
+      }
+    ],
+    "files":[
+      {
+        "name":"example.txt",
+        "size":100
+      }
+    ]
+
+  },
+  {
+    "id":2,
+    "clients":[
+      {
+        "id":"example2"
+      }
+    ],
+    "files":[
+      {
+        "name":"example2.txt",
+        "size":100
+      }
+    ]
+    
+  }
+]
